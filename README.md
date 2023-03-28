@@ -1,12 +1,12 @@
-##At a glance
+##At a glance##
 🧙🏼‍♂️ Interested in game design, music making, and creating things<br>
 🏫 B.S. Computer Science 2026 Gonzaga <br>
 🌌 Contact: artabrah@gmail.com<br>
 
-##Intro
+##Intro##
 Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learning to create projects that blend the beauty of artistry and the functionality of computer science. Right now I think that blend is somewhere in game design, but I do think that is way too narrow. I'm looking to diversify my portfolio and skills to give me the tools necessary to make my ideas a reality.
 
-##Projects
+##Projects##
 Gonzaga Hackathon 2022 - Madd-E
 * Worked with Gabe DiMartino, Charles Bennington, and Alex Nicalozzo - 3 other first-year computer science majors at Gonzaga.
 * Used DepthAI Image Recognition technology to create a randomly generated text to speech madlib - I worked mainly on the C++ code
@@ -17,7 +17,7 @@ Building video games - Canopy (in progress)
 * Foraying into the game-making field by learning the basics - map design, asset creation, and implementing creative solutions to unique problems
 * Adapting to improve skills we lack, and independently carrying out a project planned by us.
 
-##Skills
+##Skills##
 Composition
 * Using FL Studio to make comprehensive tracks
 * Distinctive sounds by using my tuba and piano performance skills to add some live music to the mix
