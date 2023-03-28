@@ -25,4 +25,4 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 ### Coding
 * Languages are C++/lua and wanting to learn more about python
 * Expertise in object-oriented-programming from regular experience in lua which C++ expanded upon and explained what was running in the background
-* Extremely adaptable and quick to learn - years of independently learning make me figure out how to achieve results beyond my skill level
+* Extremely adaptable and quick to learn - years of independently learning allow me to figure out how to achieve results beyond my skill level
