@@ -1,4 +1,6 @@
-### Hi there 👋
+🧙🏼‍♂️ Interested in game design, music making, and creating things
+🏫 B.S. Computer Science 2026 Gonzaga 
+🌌 Contact: artabrah@gmail.com
 
 <!--
 **IsaacSShade/IsaacSShade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
