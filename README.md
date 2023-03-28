@@ -29,3 +29,6 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 
 ### Group Collaboration
 * Can effectively use tools such as Trello, Discord, and Google Docs to organize the workflow, communicate effectively, and brainstorm or document important information
+
+
+Reach out to me if you want to collaborate! As said before, I am always looking for opportunities to expand and diversify the tools I can use and the best way to learn is through experience!
