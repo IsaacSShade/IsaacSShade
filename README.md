@@ -28,4 +28,4 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 * Extremely adaptable and quick to learn - years of independently learning allow me to figure out how to achieve results beyond my skill level
 
 ### Group Collaboration
-* Can effectively use tools such as Trello, Discord, and Google Docs to organize ideas, communicate effectively, and brainstorm or document important information
+* Can effectively use tools such as Trello, Discord, and Google Docs to organize the workflow, communicate effectively, and brainstorm or document important information
