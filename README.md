@@ -1,5 +1,5 @@
 ## At a glance
-🧙🏼‍♂️ Interested in game design, music making, and creating things<br>
+🧙🏼‍♂️ Interested in game design, music making, and creating<br>
 🏫 B.S. Computer Science 2026 Gonzaga <br>
 🌌 Contact: artabrah@gmail.com<br>
 
