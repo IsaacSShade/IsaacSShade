@@ -11,7 +11,7 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 ### Gonzaga Hackathon 2023 - ByteLands
 * Worked with Gabe DiMartino, Izzy Tilles, and Miles Mercer - 3 other second-year computer science majors at Gonzaga
 * Used OpenAI to create a virutal medieval village simulation with agents that independently make decisions on what they want to say or do next
-* Placed ??? in the Hackathon
+* Placed 2nd overall in the Hackathon
 
 ### Gonzaga Hackathon 2022 - Madd-E
 * Worked with Gabe DiMartino, Charles Bennington, and Alex Nicalozzo - 3 other first-year computer science majors at Gonzaga.
