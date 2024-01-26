@@ -18,8 +18,8 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 * Used DepthAI Image Recognition technology to create a randomly generated text to speech madlib - I worked mainly on the C++ code
 * Placed 2nd overall in the Hackathon
 
-### Creating video games - Canopy, Goblin Brew
-* Worked with Alex Koenig, another computer science major at Portland State University
+### Creating video games - Cryogenia, Goblin Brew, Canopy
+* Worked as a part of a 2-3 person team
 * Foraying into the game-making field by learning the basics - map design, asset creation, and implementing creative solutions to unique problems
 * Adapting to improve skills we lack, and independently carrying out a project planned by us.
 
@@ -29,7 +29,7 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 * Distinctive sounds by using my tuba and piano performance skills to add some live music to the mix
 
 ### Coding
-* Languages are C++/lua/python/sql
+* Languages are C++, Lua, Python, SQL, Java
 * Extremely adaptable and quick to learn - years of independently learning allow me to figure out how to achieve results beyond my skill level
 
 ### Group Collaboration
