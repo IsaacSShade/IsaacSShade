@@ -28,7 +28,7 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 ### Creating video games - Cryogenia, Goblin Brew, Canopy
 * Worked as a part of a 2-3 person team
 * Foraying into the game-making field by learning the basics - map design, asset creation, and implementing creative solutions to unique problems
-* Adapting to improve skills we lack, and independently carrying out a project planned by us.
+* Adapting to improve real-world coding skills, independently carrying out a project planned by ourselves, and developing communication skills.
 
 ## Skills
 ### Composition
