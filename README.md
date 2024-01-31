@@ -6,6 +6,13 @@
 ## Intro
 Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learning to create projects that blend the beauty of artistry and the functionality of computer science. Right now I think that blend is somewhere in game design, but I do think that is way too narrow of a scope to hone in on while I'm still figuring out what I want to do. I'm looking to diversify my portfolio and skills to give me the tools necessary to make my ideas a reality.
 
+## Work Experience
+
+### WiSA Full-Stack Software Intern
+* Independently coded, managed, and designed a WiFI analyzer program
+* Interfacing with embedded system APIs
+* Python-prototype to Kotlin Android self-contained device
+
 ## Projects
 
 ### Gonzaga Hackathon 2023 - ByteLands
