@@ -9,7 +9,7 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 ## Work Experience
 
 ### WiSA Full-Stack Software Intern
-* Independently coded, managed, and designed a WiFI analyzer program
+* Independently coded, managed, and designed Software that analyzes WiFI channels
 * Interfacing with embedded system APIs
 * Python-prototype to Kotlin Android self-contained device
 
