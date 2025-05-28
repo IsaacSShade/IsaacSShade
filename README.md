@@ -8,6 +8,11 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 
 ## Work Experience
 
+### Skillsforge AI Founding Lead Developer
+* Utilized OpenAI's LLM's to rapidly prototype and scale a product
+* Using AI for good, using it to give and preserve other jobs rather than take
+* Serverless backend with Vercel + Supabase, frontend with typescript
+
 ### WiSA Full-Stack Software Intern
 * Independently coded, managed, and designed Software that analyzes WiFI channels
 * Interfacing with embedded system APIs
@@ -25,7 +30,7 @@ Hi! I'm Aiden Tabrah, a computer science undergraduate with a passion for learni
 * Used DepthAI Image Recognition technology to create a randomly generated text to speech madlib - I worked mainly on the C++ code
 * Placed 2nd overall in the Hackathon
 
-### Creating video games - Cryogenia, Goblin Brew, Canopy
+### Creating video games - Cryogenia, Goblin Brew, Canopy, Thraeo
 * Worked as a part of a 2-3 person team
 * Foraying into the game-making field by learning the basics - map design, asset creation, and implementing creative solutions to unique problems
 * Adapting to improve real-world coding skills, independently carrying out a project planned by ourselves, and developing communication skills.
